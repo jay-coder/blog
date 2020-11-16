@@ -1,0 +1,8 @@
+title: Jay's Blog
+description: Leverage Microsoft technologies (.NET, Azure Cloud) to solve real world problems.
+relative_url: ./blog
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
+github:
+      repository_url: https://github.com/jay-coder
